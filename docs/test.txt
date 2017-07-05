@@ -1,1 +1,2 @@
-run test
+run test01
+run test02
